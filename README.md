@@ -1,2 +1,0 @@
-# Calculator
-Hola Mundo, uwu
