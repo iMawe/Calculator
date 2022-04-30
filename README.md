@@ -35,9 +35,17 @@
 </ul>
 </td>
 </<tr>
-<tr><td colspan="2">DOCENTES:
+<tr><td colspan="2">DOCENTE:
 <ul>
 <li>Richart Smith Escobedo Quispe (r.escobedo@ulasalle.edu.pe)</li>
+</ul>
+</td>
+</<tr>
+<tr><td colspan="2">ALUMNOS:
+<ul>
+<li>Goyzueta Torres, Valeria Alejandra (vgoyzuetat@ulasalle.edu.pe)</li>
+<li>Medina Pauca, Walther Mauricio (wmedinap@ulasalle.edu.pe)</li>
+<li>Ranilla Coaguila, Victor Andre (vranillac@ulasalle.edu.pe)</li>
 </ul>
 </td>
 </<tr>
