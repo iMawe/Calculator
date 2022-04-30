@@ -35,7 +35,7 @@ while True:
     elif opcion == 3:
         n1 = int(input("Introduce tu primer número: ") )
         n2 = int(input("Introduce tu segundo número: ") )
-        n3 = mul(n1,n2)
+        n3 = mult(n1,n2)
         print("La respuesta es: ", n3)
         print("Regresando al menu ")
     elif opcion == 4:
