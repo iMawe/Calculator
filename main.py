@@ -1,5 +1,8 @@
 from divison import div
-
+from suma import add
+from resta import sub
+from Mult import mult
+from Mod import mod
 print("Bienvenido")
 
 
@@ -20,21 +23,21 @@ while True:
     if opcion == 1:
         n1 = int(input("Introduce tu primer número: ") )
         n2 = int(input("Introduce tu segundo número: ") )
-        #n3 =  add(n1,n2)
-        #print("La respuesta es: ", n3)
-        #print("Regresando al menu ")
+        n3 =  add(n1,n2)
+        print("La respuesta es: ", n3)
+        print("Regresando al menu ")
     elif opcion == 2:
         n1 = int(input("Introduce tu primer número: ") )
         n2 = int(input("Introduce tu segundo número: ") )
-        #n3 = sub(n1,n2)
-        #print("La respuesta es: ", n3)
-        #print("Regresando al menu ")
+        n3 = sub(n1,n2)
+        print("La respuesta es: ", n3)
+        print("Regresando al menu ")
     elif opcion == 3:
         n1 = int(input("Introduce tu primer número: ") )
         n2 = int(input("Introduce tu segundo número: ") )
-        #n3 = mul(n1,n2)
-        #print("La respuesta es: ", n3)
-        #print("Regresando al menu ")
+        n3 = mul(n1,n2)
+        print("La respuesta es: ", n3)
+        print("Regresando al menu ")
     elif opcion == 4:
         n1 = float(input("Introduce tu primer número: ") )
         n2 = float(input("Introduce tu segundo número: ") )
@@ -44,9 +47,9 @@ while True:
     elif opcion == 5:
         n1 = float(input("Introduce tu primer número: ") )
         n2 = float(input("Introduce tu segundo número: ") )
-        #n3 = mod(n1,n2)
-        #print("La respuesta es: ", n3)
-        #print("Regresando al menu ")
+        n3 = mod(n1,n2)
+        print("La respuesta es: ", n3)
+        print("Regresando al menu ")
     elif opcion == 6:
         break
     else:

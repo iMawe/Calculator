@@ -1,2 +1,2 @@
-def resta(int1, int2):
+def sub(int1, int2):
     return int1 - int2
